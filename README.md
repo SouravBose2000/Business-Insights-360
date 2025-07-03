@@ -290,15 +290,39 @@ This database contains dimension tables such as freight_cost, gross_price, manuf
 
 &nbsp;
 
-As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential.
+As the database is **MySQL** in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential.
 
-Later, the stakeholders provided a **target file (.xlsx format)** directly to the data analytics team, with the goal of incorporating it into the Power BI dashboard. It outlines **country-level sales targets on a monthly basis**. For each market this file provides:
+Later, the stakeholders provided a **Target File (.xlsx format)** and **Market Share File (.xlsx format)** directly to the data analytics team, with the goal of incorporating both into the Power BI dashboard.
+
+**Target file (targets.xlsx) :**
+
+This dataset outlines **country-level sales targets on a monthly basis**. For each market this file provides:
 
 **ns_target :** Net Sales Target – The sales volume expected for the month.
 
 **gm_target :** Gross Margin Target – The expected profit before operating expenses.
 
 **np_target :** Net Profit Target – The final target profit after all costs.
+
+&nbsp;
+
+**Market Share File (marketshare-v2022.xlsx) :**
+
+This dataset will contribute to the Executive View. This file provides the following details:
+
+**sub_zone :** Represents regions like North America, India, ROA, etc.
+
+**category :** Covers categories such as Business Laptop, Personal Laptop, Gaming Laptop, and Personal Desktop.
+
+**total_market_sales_$ :** Total sales figures for each product category per sub-zone, reported in millions of dollars.
+
+**atliq_sales_$ :** Sales done by AtliQ in that category and zone.
+
+**dale_sales_$, innovoo_sales_$, pacer_sales_$, bp_sales_$ :** Sales figures of major competitors.
+
+**others_sales_$ :** Combined sales from smaller or miscellaneous competitors.
+
+**fy_desc :** Fiscal year of the data.
 
 &nbsp;
 
