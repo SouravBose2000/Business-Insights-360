@@ -168,8 +168,6 @@ Currently, analytics maturity varies across regions — with strong usage in mar
 
 The project is expected to enable AtliQ to identify underperforming regions and implement focused strategies, resulting in a significant increase in sales across previously low-growth markets. By leveraging real-time insights and optimizing operational costs, the company aims to improve its profit margin by 10%. The ability to track, analyze, and reduce unnecessary expenses through the dashboard will empower data-driven efficiency and smarter decision-making across all functions.
 
-Project kick off session, where you should get clear of for what and why this project and all other questions you have with regards to the project
-
 &nbsp;
 
 *******************
