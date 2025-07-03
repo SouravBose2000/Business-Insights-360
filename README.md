@@ -11,7 +11,7 @@ I worked on this project by following the **Codebasics PowerBi Course**, Link to
 you can find the full report file here :
 - [View Power BI Report (.pbix)](https://github.com/SouravBose2000/Business-Insights-360/blob/main/Report/business_insights_360.pbix)
 
-- [View Live Power BI Report](https://github.com/SouravBose2000/Excel-Sales-Analytics/tree/main/Project/Excel)
+- [View Live Power BI Report](https://project.novypro.com/FIltiU)
 
 
 &nbsp;
