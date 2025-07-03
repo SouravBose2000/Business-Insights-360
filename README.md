@@ -9,7 +9,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 I worked on this project by following the **Codebasics PowerBi Course**, Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project).
 
 you can find the full report file here :
-- [View Power BI Report (.pbix)](https://github.com/SouravBose2000/Excel-Sales-Analytics/tree/main/Project/PDF)
+- [View Power BI Report (.pbix)](https://github.com/SouravBose2000/Business-Insights-360/blob/main/Report/business_insights_360.pbix)
 
 - [View Live Power BI Report](https://github.com/SouravBose2000/Excel-Sales-Analytics/tree/main/Project/Excel)
 
@@ -309,7 +309,7 @@ Later, the stakeholders provided a **target file (.xlsx format)** directly to th
 - Poor data modeling affects the over all performance of the report.
 - In this project, we have followed **Snowflake** data modeling method.
 
-<img src="https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Data_model.png" class="center">
+<img src="https://github.com/SouravBose2000/Business-Insights-360/blob/main/Resources/Data%20Model.png" class="center">
 
 &nbsp;
 
@@ -337,50 +337,58 @@ In Home view, all the views button will be available. User will land on specific
 
 ### **Info Page**
 This will serve as the information page — like a catalog or help section. If someone is opening the dashboard for the first time and needs guidance, they can refer to this page for help and navigation.
-![Info.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
+
+![Info.gif](https://github.com/SouravBose2000/Business-Insights-360/blob/main/Resources/Info%20Page.gif)
 
 &nbsp;
 
 ### **Finance View**
 Displays a full Profit & Loss statement to help evaluate financial performance across markets, products, and customers.
-![Finace.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif)
+
+![Finace.gif](https://github.com/SouravBose2000/Business-Insights-360/blob/main/Resources/Finance%20View.gif)
 
 &nbsp;
 
 ### **Sales View**
 Highlights top and bottom performing customers along with key metrics. A matrix layout is used to clearly understand customer performance.
-![Sales.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
+
+![Sales.gif](https://github.com/SouravBose2000/Business-Insights-360/blob/main/Resources/Sales%20View.gif)
 
 &nbsp;
 
 ### **Marketing View**
 Similar to the Sales View, but focused on product performance, showcasing best and worst performing products with key indicators.
-![Marketing.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
+
+![Marketing.gif](https://github.com/SouravBose2000/Business-Insights-360/blob/main/Resources/Marketing%20View.gif)
 
 &nbsp;
 
 ### **Supply chain View**
 Reliability, Forecast Accuracy in a view to understand supply chain Performance
-![Supply chain.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
+
+![Supply chain.gif](https://github.com/SouravBose2000/Business-Insights-360/blob/main/Resources/Supply%20chain%20View.gif)
 
 &nbsp;
 
 ### **Executive View**
 An integrated, high-level dashboard offering key insights for executives.
-![Executive.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
+
+![Executive.gif](https://github.com/SouravBose2000/Business-Insights-360/blob/main/Resources/Executive%20View.gif)
 
 &nbsp;
 
 ### **Support Page**
 This page will act as a support center for dashboard users. If someone has questions or needs help while using the dashboard, they can refer to this page. It will include support contact details and categorized help sections for different types of queries.
 
+![Support Page](https://github.com/SouravBose2000/Business-Insights-360/blob/main/Resources/Support%20Page.gif)
+
 &nbsp;
 
 ### **Overall Report**
 
-![Overall Report.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Overall.gif)
+![Overall Report.gif](https://github.com/SouravBose2000/Business-Insights-360/blob/main/Resources/Overall%20Report.gif)
 
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
+you can find the full report file here : [Report](https://github.com/SouravBose2000/Business-Insights-360/blob/main/Report/business_insights_360.pbix)
 
 &nbsp;
 
